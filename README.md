@@ -1,7 +1,7 @@
 summary: PW2 - Practical work 2 id: pw2 categories: industrialisation tags: industrialisation status: Published authors:
 Alaa BAKHTI Feedback Link: https://github.com/EPITA-courses/dsp_practical_work/issues/new
 
-# Data Science in production assignment 2
+# Data Science in Production Assignment - EPITA
 
 The goal of this practical work is to industrialize the ML model you have created in the previous session. To do that you will be going over the following steps:
 
